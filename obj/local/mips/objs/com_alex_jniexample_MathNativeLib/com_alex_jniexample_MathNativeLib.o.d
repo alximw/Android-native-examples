@@ -1,0 +1,17 @@
+obj/local/mips/objs/com_alex_jniexample_MathNativeLib/com_alex_jniexample_MathNativeLib.o: \
+ jni/com_alex_jniexample_MathNativeLib.c \
+ jni/com_alex_jniexample_MathNativeLib.h \
+ /Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/jni.h \
+ /Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/sys/cdefs.h \
+ /Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/sys/cdefs_elf.h \
+ /Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/android/api-level.h
+
+jni/com_alex_jniexample_MathNativeLib.h:
+
+/Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/jni.h:
+
+/Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/sys/cdefs.h:
+
+/Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/sys/cdefs_elf.h:
+
+/Users/Alex/Documents/Android_NDK/platforms/android-L/arch-mips/usr/include/android/api-level.h:
